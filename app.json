@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ISMEndangeredSpecies",
+    "slug": "ISMEndangeredSpecies",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ISMEndangeredSpecies"
+}
